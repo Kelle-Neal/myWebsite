@@ -8,7 +8,7 @@ const About = () => {
         <h1 className="text-center py-5">About Me</h1>
         <Row>
           <Col md={6}>
-            <Image src="https://picsum.photos/id/1011/600/400" fluid />
+            <Image src="#" fluid />
           </Col>
           <Col md={6}>
             <p>Info about me</p>

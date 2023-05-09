@@ -9,7 +9,7 @@ const Portfolio = () => {
         <Row>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://picsum.photos/id/237/200/150" />
+              <Card.Img variant="top" src="#" />
               <Card.Body>
                 <Card.Title>Project 1</Card.Title>
                 <Card.Text>
@@ -21,7 +21,7 @@ const Portfolio = () => {
           </Col>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://picsum.photos/id/238/200/150" />
+              <Card.Img variant="top" src="#" />
               <Card.Body>
                 <Card.Title>Project 2</Card.Title>
                 <Card.Text>
@@ -33,7 +33,7 @@ const Portfolio = () => {
           </Col>
           <Col md={4}>
             <Card>
-              <Card.Img variant="top" src="https://picsum.photos/id/239/200/150" />
+              <Card.Img variant="top" src="#" />
               <Card.Body>
                 <Card.Title>Project 3</Card.Title>
                 <Card.Text>
